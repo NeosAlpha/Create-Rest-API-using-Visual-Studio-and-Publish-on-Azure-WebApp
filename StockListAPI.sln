@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPIForFetchStockList", "StockListAPI\RestAPIForFetchStockList.csproj", "{2F481BBF-403E-4B3C-AD83-E519C9D62E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F481BBF-403E-4B3C-AD83-E519C9D62E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F481BBF-403E-4B3C-AD83-E519C9D62E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F481BBF-403E-4B3C-AD83-E519C9D62E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F481BBF-403E-4B3C-AD83-E519C9D62E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB92623-9B01-4723-9634-A60950C23CB5}
+	EndGlobalSection
+EndGlobal
